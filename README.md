@@ -1,2 +1,2 @@
 # testimonial-plugin
-testimonial plugin you can make changes.Please ask for permission.
+testimonial plugin you can make changes.Please ask for permission.Thanks

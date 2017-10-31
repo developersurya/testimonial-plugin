@@ -12,6 +12,7 @@ Version: 1.1
 Author URI: http://hellosurya.com.np
 */
 
+//try to make changes in next file
 //load js for plugin
 function t_admin_scripts() {
 	wp_enqueue_script( 'jquery' );
